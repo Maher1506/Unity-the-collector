@@ -1,0 +1,7 @@
+BASIC STRUCTURE:
+- Input System (player needs to be able to go from A to B)
+- Spawning System for Items (rate, random places)
+- Item Script (falling, handling themselves)
+- Health System (trigger or check)
+- Score System
+- More???
