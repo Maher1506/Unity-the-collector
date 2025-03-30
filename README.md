@@ -13,7 +13,7 @@ In The Collector, your goal is to collect as many treasure chests as possible wh
 - 🌐 Global Leaderboard — Integrated with LootLocker for real-time high-score tracking.
 - 📱 Mobile-Ready — Designed and published for Android on the Google Play Store.
 
-#📸 Screenshots
+# 📸 Screenshots
 ## 🏠 Main Menu
 Customize your character and explore settings or jump straight into the action.
 
@@ -36,7 +36,8 @@ See your final score and compare it with other global players in real time.
 
 # 🚀 Installation
 Available on Android
-[Download from the Google Play Store]([insert actual link when available](https://play.google.com/store/apps/details?id=com.TheanaProductions.TheCollector))
+
+[Download from the Google Play Store](https://play.google.com/store/apps/details?id=com.TheanaProductions.TheCollector)
 
 # 🛠️ Technologies Used
 - Unity — Game Engine (2D)
